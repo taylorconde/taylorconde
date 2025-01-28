@@ -19,7 +19,12 @@
   </div>
 
 <div>
-...Sou entusiasta da cultura DevOps e trabalho como Analista de Redes e infraestrutura. Tenho mais de 8 anos de experiência substancial em TI/Redes e trabalho em projetos relacionados à Redes e Infraestrutura, gerenciados por metodologias ágeis (Scrum e Kanban), buscando sempre utilizar a cultura DevOps .
-Tenho conhecimento nos Cloud providers(AWS, GCP, Azure), Operating System(Linux, Ubuntu, Debian), Tools CI/CD(Gitlab CI, Jenkins, GitHub Actions, Circle CI), Containers(Docker), Container Orchestration(Kubernetes), infrastructure Monitoring(Prometheus, Grafana,Zabbix), Logs Management(Kibana). 
-Também tenho conhecimentos em HTML, CSS, JavaScript, TypeScript, Java, Python, React Js.
+...Sou um profissional com mais de 10 anos de experiência em TI, tendo atuado como Analista de Suporte Técnico e Analista de Redes. Durante minha trajetória, adquiri sólida experiência no suporte a sistemas, manutenção de infraestrutura e resolução de problemas críticos, sempre buscando entregar soluções eficientes e contribuir para a excelência operacional.
+
+🎯 Em transição para Desenvolvimento de Software 🎯
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e, há dois anos, me dedico aos estudos em programação e tecnologia. Meu objetivo é evoluir profissionalmente e ingressar na área de desenvolvimento de software, unindo minha experiência em TI com novas habilidades voltadas à criação de soluções inovadoras.
+
+Meu sonho é me tornar programador. Programação é uma paixão que me move e uma área em que acredito poder fazer a diferença, contribuindo para o crescimento das equipes e projetos em que estiver inserido.
+
+Estou em busca de uma oportunidade — seja estágio ou posição júnior — para dar início a essa nova fase da minha carreira.
 </div>
