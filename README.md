@@ -1,65 +1,64 @@
-
 ### Olá, me chamo Taylor!!
-  <a href="https://github.com/taylorconde">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+</div>
+<br>
 
-<div style="display: inline_block"><br>
-  <!-- Linguagens -->
-  
-  <img align="center" alt="Taylor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  <img align="center" alt="Taylor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Taylor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Taylor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- Frameworks -->
-  <img align="center" alt="Taylor-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Taylor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Taylor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-  <!-- Build Tools -->
-  <img align="center" alt="Taylor-Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg">
-
-  <!-- Frontend Tools -->
-  <img align="center" alt="Taylor-Babel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg">
-  <img align="center" alt="Taylor-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
-
-  <!-- DevOps -->
-  <img align="center" alt="Taylor-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Taylor-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="Taylor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<div align="left">
+  <a href="mailto:taylorconde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/john-taylor-verified" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
-  <a href = "mailto:taylorconde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/john-taylor-429a84205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+---
 
-<div>
-Profissional de TI | Desenvolvimento Full‑Stack
+### John Taylor — Backend & DevOps Engineer 👋
 
-Com mais de 10 anos de experiência em TI, atuei como Analista de Suporte Técnico e Analista de Redes, acumulando conhecimentos sólidos em:
+Sou um Desenvolvedor Backend com uma década de experiência prática em infraestrutura de TI, redes e suporte a sistemas críticos. Meu foco é construir APIs robustas, escaláveis e seguras, aplicando uma mentalidade de **DevOps** desde a primeira linha de código.
 
-* Suporte a sistemas e atendimento a incidentes críticos
-* Manutenção de infraestrutura, redes e servidores
-* Automação de tarefas e otimização de processos operacionais
+Meu trabalho vai além de apenas implementar funcionalidades. Por ter atuado anos garantindo a estabilidade de servidores e redes, eu desenho aplicações pensando em como elas se comportarão em ambientes reais — lidando com gargalos de rede, otimização de recursos, resiliência a falhas e facilidade de monitoramento (observabilidade).
 
-Formação em DevOps
-Formação em Análise e Desenvolvimento de Sistemas (em andamento)
-4 anos de estudos e projetos de programação — construindo aplicações web e aprendendo as boas práticas de DevOps
+Trabalho principalmente com **Java, Spring Boot e Node.js**, unindo arquitetura de software com automação de infraestrutura para entregar sistemas prontos para produção.
 
-O que me move
+🧠 **Foco em Engenharia e Operações**
+* **Desenvolvimento Backend:** APIs RESTful, modelagem de dados e arquitetura de microsserviços.
+* **Mentalidade DevOps (CI/CD):** Integração e entrega contínuas, infraestrutura como código e conteinerização.
+* **Resiliência e Diagnóstico:** Alta capacidade de *troubleshooting*, análise de logs, rastreamento de requisições HTTP e mitigação de incidentes.
+* **Redes e Sistemas:** Profundo entendimento de como as aplicações se comunicam (TCP/IP, DNS, roteamento) e interagem com o sistema operacional (Linux).
 
-* Paixão por programação e criação de software que resolva problemas reais
-* Mentalidade de DevOps: integração contínua, entrega contínua e infraestrutura como código
-* Foco Full‑Stack: front‑end (HTML, CSS, JavaScript/React) e back‑end (Node.js, Java, bancos de dados)
+🛠️ **Stack Tecnológica & Ferramentas**
 
-Objetivo
-Busco uma oportunidade nas áreas de DevOps ou Desenvolvimento Full‑Stack, onde possa:
+* **Linguagens:** Java (17/21), Python, JavaScript, C# e SQL
+* **Frameworks & Ecossistema:** Spring Boot, Spring Security, Node.js, React
+* **Bancos de Dados & Dados:** PostgreSQL, SQLite, Spring Data JPA, Flyway (Migrations)
+* **Testes & Qualidade:** JUnit 5, Playwright (E2E), Postman/Insomnia, TDD e análise de *Status Codes*
+* **Infraestrutura, Cloud & DevOps:** CI/CD (GitHub Actions), Docker & Docker Compose, Kubernetes, AWS, VMware, Linux Servers e Redes (TCP/IP, DNS, Roteamento)
+* **Arquitetura & Ferramentas:** Git/GitHub, Maven, MapStruct, Autenticação JWT, RESTful APIs
 
-1. Aplicar minha bagagem em infraestrutura para projetar pipelines de CI/CD
-2. Colaborar com equipes multidisciplinares e entregar soluções robustas
-3. Crescer profissionalmente, aprendendo novas tecnologias e impactando positivamente os produtos
+📂 **Projetos em Destaque**
 
-Estou pronto para abraçar novos desafios, trazer eficiência operacional e qualidade de software a partir da união da minha experiência em TI e das habilidades adquiridas em desenvolvimento.
+📋 **[Task Tracker API](https://github.com/taylorconde/task-tracker)** Uma API RESTful completa de gerenciamento de tarefas, desenvolvida do zero em **Java Puro (sem Spring ou Hibernate)** para explorar profundamente o protocolo HTTP, arquitetura de software e persistência de dados.
 
-Vamos conversar?
-Fico à disposição para discutir como posso contribuir para sua equipe!
-</div>
+* **Foco em Fundamentos:** Gerenciamento manual do servidor HTTP nativo (`com.sun.net.httpserver`), controle granular de requisições, serialização JSON e *Status Codes*, refletindo um entendimento profundo de como as APIs operam em baixo nível.
+* **Múltiplas Estratégias de Persistência:** Implementação do *Repository Pattern* e *Strategy Pattern* permitindo alternar de forma transparente entre PostgreSQL, SQLite local e arquivos JSON puro.
+* **Resiliência e Testes:** Cobertura de testes unitários e de integração (JUnit 5), além de testes E2E com Playwright em pipelines de CI/CD (GitHub Actions).
+* **Interface e DevOps:** Front-end acoplado com Kanban *drag-and-drop* e ambiente totalmente conteinerizado via Docker.
+
+📊 **[FinControl](https://github.com/taylorconde/fincontrol)** Uma API RESTful de controle financeiro projetada para alta confiabilidade na ingestão de dados, com importação e processamento em lote de extratos bancários.
+
+* **Processamento de Dados e IA:** Implementação de rotinas de *parsing* de arquivos complexos (PDFs com Apache PDFBox e planilhas com Apache POI), integrando com a API do Google Gemini para categorização automatizada de dados não estruturados.
+* **Arquitetura e Boas Práticas:** Construída com **Java 21 e Spring Boot 3**, aplicando *Layered Architecture*, padrão DTO com MapStruct (type-safe) e autenticação *stateless* baseada em JWT com Spring Security.
+* **Resiliência e Observabilidade:** Tratamento global de erros (`@RestControllerAdvice`) garantindo retornos HTTP consistentes e previsíveis para quem consome a API, facilitando o diagnóstico de falhas (*troubleshooting*).
+* **Modelagem de Dados e Performance:** Banco de dados PostgreSQL com versionamento de *schema* gerenciado via Flyway e criação de índices estratégicos (`idx_transactions_user_date`) para otimizar consultas em tabelas de alto volume.
+
+🎯 **Abordagem Profissional**
+
+Eu combino o **desenvolvimento full-stack** com uma visão pragmática de **infraestrutura**, focando em soluções que:
+* Sejam fáceis de manter e fáceis de monitorar em produção.
+* Resolvam problemas reais de negócios de forma eficiente.
+* Tratem erros de forma graciosa, fornecendo *status codes* e *payloads* claros para quem consome a API.
+
+Seja investigando um erro complexo de integração ou arquitetando um novo fluxo no backend, eu trago eficiência operacional e segurança técnica desde o primeiro dia.
+
+📫 **Contato**
+* **LinkedIn:** [https://www.linkedin.com/in/john-taylor-verified](https://www.linkedin.com/in/john-taylor-verified)
+* **Email:** taylorconde@gmail.com
